@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+
+}
+h1{
+    text-align: center;
+}
+form{
+    text-align: center;
+    margin-bottom: 30px;
+}
+input{
+    padding: 8px;
+    width: 50%;
+}
+button{
+    padding: 8px 20px;
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: darkslateblue;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding: 8px;
+    border-bottom: 1px solid cornflowerblue;
+}
+.eliminar-btn{
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 6px 15px;
+    cursor: pointer;
+    float: right;
+}
+.eliminar-btn:hover{
+    background-color: crimson;
+}
+.completada{
+    text-decoration: line-through;
+    color:brown;
+}
+
+
+/* --------------- */
+body {
+    font-size: 1rem; 
+    /* Relativa al tamaño de la     fuente raíz */
+}
+h1 {
+    font-size: 2.5rem; 
+    /* Relativo al tamaño de la    fuente del cuerpo */
+}
+
+
+
