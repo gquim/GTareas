@@ -16,7 +16,6 @@ function renderTask(){
     tareas.forEach(tarea =>{
         const li = document.createElement('li')
         li.textContent = tarea.descripcion;
-        //taskList.appendChild(li);desde la
         
         //boton para eliminar tareas
         const deleteBtn = document.createElement('button');

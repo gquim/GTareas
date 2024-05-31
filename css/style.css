@@ -47,15 +47,4 @@ li{
 }
 
 
-/* --------------- */
-body {
-    font-size: 1rem; 
-    /* Relativa al tamaño de la     fuente raíz */
-}
-h1 {
-    font-size: 2.5rem; 
-    /* Relativo al tamaño de la    fuente del cuerpo */
-}
-
-
 
